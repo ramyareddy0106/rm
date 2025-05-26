@@ -1,0 +1,8 @@
+This will make it easy to commit changes
+git commit -m "changes:
+it will commit the changes 
+git push -u origin master
+it will push the file to master 
+if you want to change anything you can commit it 
+and push it 
+
