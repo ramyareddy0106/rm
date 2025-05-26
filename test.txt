@@ -1,0 +1,4 @@
+this also has some codes
+git merge test2
+it will merge the two branches
+
