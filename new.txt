@@ -1,0 +1,6 @@
+git contains some codes
+cd C:
+mkdir rm
+git init
+cd add.c
+vi add.c
